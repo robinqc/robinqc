@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toastynacho&label=Profile%20views&color=0e75b6&style=flat" alt="toastynacho" /> </p>
 
+- 🔭 I’m looking for my first job as Web Developer
+
 - 🔭 I’m currently working on [Toast, a music player based on web technologies](https://github.com/toastynacho/toast)
 
 - 🌱 I’m currently learning **React Redux, Headless UI, Artificial Intelligence**
