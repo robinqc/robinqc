@@ -5,7 +5,7 @@
 
 - 🔭 I’m looking for my first job as Web Developer
 
-- 🔭 I’m currently working on [Toast, a music player based on web technologies](https://github.com/toastynacho/toast) and **Chigüigram, an Instagram-like platform for sharing Capybara related content**
+- 🔭 I’m currently working on [Toast, a music player based on web technologies](https://github.com/robinqc/toast) and [Chigüigram, an Instagram-like platform for sharing Capybara related content](https://github.com/robinqc/chiguigram-api)
 
 - 🌱 I’m currently learning **React Redux, Headless UI, Artificial Intelligence**
 
