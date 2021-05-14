@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toastynacho&label=Profile%20views&color=0e75b6&style=flat" alt="toastynacho" /> </p>
 
-- 🔭 I’m looking for my first job as Web Developer
+- 🔭 I’m looking for my first full-time job as Web Developer
 
 - 🔭 I’m currently working on [Toast, a music player based on web technologies](https://github.com/robinqc/toast) and [Chigüigram, an Instagram-like platform for sharing Capybara related content](https://github.com/robinqc/chiguigram-api)
 
