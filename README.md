@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Quintero</h1>
 <h3 align="center">A passionate engineering student and web developer from Santa Marta, Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toastynacho&label=Profile%20views&color=0e75b6&style=flat" alt="toastynacho" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=robinqc&label=Profile%20views&color=0e75b6&style=flat" alt="toastynacho" /> </p>
 
 - 🔭 I’m looking for my first full-time job as Web Developer
 
