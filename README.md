@@ -2,6 +2,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robinqc&label=Profile%20views&color=0e75b6&style=flat" alt="toastynacho" /> </p>
 
+<a href="https://robinqc.me"> Visit my blog!</a>
+
 
 <h3 align="center">Languages and Tools</h3><br>
 <p align="center"> 
